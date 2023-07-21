@@ -1,25 +1,8 @@
-# Laravel E-commerce Website
-E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
+# Laravel E-commerce Website for Computer Shop
 
-> If you want to see every single step how this E-commerce application is build and learn how to build your own Full Stack applications, check my website [thecodeholic.com](https://thecodeholic.com)
+## Database Schema
+![DatabaseSchema](https://github.com/Dapravith/E-Commerce/assets/90898700/fbe02546-9292-47db-8120-579e3c771ed7)
 
-## Demo
-Admin Panel: https://admin.lcommerce.net
-```
-Email: admin@example.com
-Password: admin123
-```
-
-Website: https://lcommerce.net
-
-```
-Email: user1@example.com
-Password: useruser1
-
-
-Email: user2@example.com
-Password: useruser2
-```
 
 ## Installation 
 Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node.js and composer.
@@ -37,10 +20,10 @@ Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node
 10. Run `npm run dev` to start vite server for Laravel frontend
 
 ### Install Vue.js Admin Panel
-1. Navigate to `backend` folder
+1. Navigate to `frontend-vuejs` folder
 2. Run `npm install`
-3. Copy `backend/.env.example` into `backend/.env`
-4. Make sure `VITE_API_BASE_URL` key in `backend/.env` is set to your Laravel API host (Default: http://localhost:8000)
+3. Copy `frontend-vuejs/.env.example` into `frontend-vuejs/.env`
+4. Make sure `VITE_API_BASE_URL` key in `frontend-vuejs/.env` is set to your Laravel API host (Default: http://localhost:8000)
 5. Run `npm run dev`
 6. Open Vue.js Admin Panel in browser and login with
     ```
