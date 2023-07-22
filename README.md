@@ -1,5 +1,13 @@
 # Laravel E-commerce Website for Computer Shop
 
+## User Activity Diagram
+![telegram-cloud-photo-size-5-6188492680749757836-y](https://github.com/Dapravith/E-Commerce-Computer-Shop-Laravel/assets/90898700/b60f6167-ec64-483f-82db-42af9a1f90a0)
+
+## Admin Activity Diagram
+![telegram-cloud-photo-size-5-6188492680749757844-y](https://github.com/Dapravith/E-Commerce-Computer-Shop-Laravel/assets/90898700/4ad85781-1ce1-4c79-9b31-a03002428d2b)
+
+
+
 ## Database Schema
 ![DatabaseSchema](https://github.com/Dapravith/E-Commerce/assets/90898700/fbe02546-9292-47db-8120-579e3c771ed7)
 
