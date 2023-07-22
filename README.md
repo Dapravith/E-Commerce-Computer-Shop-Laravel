@@ -30,3 +30,6 @@ Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node
     admin@example.com
     admin123
     ```
+## Website URL: 
+1. Admin Dashboard (Frontend part Build With VueJS,Tailwind CSS): https://admin.vithe-commerce.com
+2. Client Homepage (Backend part Build With PHP, Laravel framework): https://vithe-commerce.com/
